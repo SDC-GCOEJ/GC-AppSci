@@ -9,6 +9,7 @@ body{
 	margin:0;
 	font-family: 'PT Sans', sans-serif;
 	background: #F1F1F1;
+    
 }
 body a{
     transition:0.5s all;
@@ -43,6 +44,8 @@ label{
 .header {
 	padding: 1em 0 0;
     background: #fff;
+    text-align:center;
+
 }
 .logo h1{
   font-size:2.5em;
@@ -59,6 +62,10 @@ label{
 }
 span.highlight{
    color: #56CFCA;
+   font-family:"Britannic Bold";
+   font-size:1.5em;
+   font-weight:bold;
+   color:#FFF;
 }
 .top-menu {
 	float:right;
@@ -69,7 +76,7 @@ span.highlight{
 .top-menu ul li a {
 	color: #000;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: bold;
     text-decoration: none;
     padding: 6px 15px;
     border: none;
@@ -189,7 +196,7 @@ marquee {
     text-align: center;
     color: #000;
     font-weight: 100;
-    font-size: 13px;
+    font-size: 17px;
     margin: 10px 12px;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
