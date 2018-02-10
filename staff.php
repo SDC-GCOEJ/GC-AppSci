@@ -21,6 +21,7 @@
 <script type="text/javascript" src="js/easing.js"></script>
 <script src="js/jquery.chocolat.js"></script>
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--light-box-files -->
 <script type="text/javascript" charset="utf-8">
 $(function() {
@@ -33,7 +34,7 @@ $(function() {
 		<div class="container">
 			<div class="col-sm-12 logo">
 			  <!--<h1><a href="index.php"><span class="highlight"></span>Department of Applied Science</a></h1>-->
-        <img src="images/sci.png">
+        <img src="images/sci.png" width="100%">
 			</div>
 		    <div class="col-sm-9 logo_right">
 		       
@@ -48,7 +49,7 @@ $(function() {
  <div class="container">
  <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header nav_2">
-      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">Menu
+      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs"><i class="fa fa-bars" aria-hidden="true"></i>
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -142,7 +143,7 @@ $(function() {
 <div class="about_banner">
   <div class="container">
     <h2>STAFF</h2>
-    <span class="breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a><span>People/Staff</span></span>
+    <span class="breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a><span>/People/Staff</span></span>
   </div>
 </div>
 <div class="about_top">
@@ -167,13 +168,13 @@ $(function() {
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                            
                                     
-               <h3><a href="https://gcoej.ac.in/download/S.%20G.%20Zope0.pdf">Shri.S.G.Zope</a></h3>          
+               <h3><a href="https://gcoej.ac.in/download/S.%20G.%20Zope0.pdf" target="_blank">Shri.S.G.Zope</a></h3>          
                     
                  <p>NAME          :-  SHARAD G. ZOPE <br>
                   DESIGNATION     :-  Lab AssistanT<br>
                   E-MAIL ADDRESS  :-  sharadzope@gmail.com <br>
                   CONTACT NO.     :-  9405625627</p> <br><br>
-                  <h4><a href="https://gcoej.ac.in/download/S.%20G.%20Zope0.pdf">Read more</a></h4>  
+                  <h4><a href="https://gcoej.ac.in/download/S.%20G.%20Zope0.pdf" target="_blank">Read more</a></h4>  
               </div>   
             </div>  
             <div class="clearfix"></div>
@@ -191,13 +192,13 @@ $(function() {
         </div>       
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                            
-               <h3><a href="https://gcoej.ac.in/download/D.%20A.%20Baviskar1.pdf">Miss D.A.Baviskar</a></h3>          
+               <h3><a href="https://gcoej.ac.in/download/D.%20A.%20Baviskar1.pdf" target="_blank">Miss D.A.Baviskar</a></h3>          
                   
                  <p>NAME          :-  MISS. DIPALI ARUN BAVISKAR  <br>
                   DESIGNATION     :-  Technical Lab Assistant <br>
                   E-MAIL ADDRESS  :-  dabaviskar@gmail.com <br>
                   CONTACT NO.     :-  9689040900</p><br><br>
-                 <h4><a href="https://gcoej.ac.in/download/D.%20A.%20Baviskar1.pdf">Read more</a></h4>  
+                 <h4><a href="https://gcoej.ac.in/download/D.%20A.%20Baviskar1.pdf" target="_blank">Read more</a></h4>  
               </div>   
             </div>  
             <div class="clearfix"></div>

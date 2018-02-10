@@ -23,6 +23,7 @@
 <script type="text/javascript" src="js/easing.js"></script>
 <script src="js/jquery.chocolat.js"></script>
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--light-box-files -->
 <script type="text/javascript" charset="utf-8">
 $(function() {
@@ -34,7 +35,7 @@ $(function() {
 <div class="header">
 		<div class="container">
 			<div class="col-sm-12 logo">
-			 <img src="images/sci.png">
+			 <img src="images/sci.png" width="100%">
        <!-- <h1><a href="index.php"><span class="highlight"></span>Department of Applied Science</a></h1>-->
 			</div>
 		    <div class="col-sm-9 logo_right">
@@ -51,7 +52,7 @@ $(function() {
  <div class="container">
  <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header nav_2">
-      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">Menu
+      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs"><i class="fa fa-bars" aria-hidden="true"></i>
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -146,7 +147,7 @@ $(function() {
 <div class="about_banner">
   <div class="container">
     <h2>FACULTY</h2>
-    <span class="breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a>  <span>People/Faculty</span></span>
+    <span class="breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a>  <span>/People/Faculty</span></span>
   </div>
 </div>
 
@@ -167,13 +168,13 @@ $(function() {
         </div>       
         <div class="col-lg-8 col-sm-8">            
                <div class="blog-entry-title">                                         
-               <h3><a href="https://gcoej.ac.in/download/BIODATA-MSP0.pdf">Smt.M.S.Phalak</a></h3>          
+               <h3><a href="https://gcoej.ac.in/download/BIODATA-MSP0.pdf" target="_blank">Smt.M.S.Phalak</a></h3>          
                     
                  <p>NAME            :-  Smt PHALAK MRINALINI SUNIL <br>
                  	DESIGNATION     :-  Assistant Professor in Physics<br>
-                 	E-MAIL ADDRESS  :-  mrinalini65@rediffmail.com<br>
-                 	CONTACT NO      :-  9270338257             </p><br><br>                
-                   <h4><a href="https://gcoej.ac.in/download/BIODATA-MSP0.pdf">Read more</a></h4>  
+                 	E-MAIL ADDRESS  :-  msphalak@gcoej.ac.in<br>
+                 	PHONE EXT.     :-  204             </p><br><br>                
+                   <h4><a href="https://gcoej.ac.in/download/BIODATA-MSP0.pdf" target="_blank">Read more</a></h4>  
                </div>
             </div>  
             <div class="clearfix"></div>
@@ -189,13 +190,13 @@ $(function() {
         </div>       
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                             
-               <h3><a href="https://gcoej.ac.in/download/YSP_biodata0.pdf">Smt.Y.S.Patil</a></h3>          
+               <h3><a href="https://gcoej.ac.in/download/YSP_biodata0.pdf" target="_blank">Smt.Y.S.Patil</a></h3>          
                     
                  <p>NAME            :-  Smt YOGITA S.PATIL <br>
                  	DESIGNATION     :-  Assistant Professor in Physics<br>
-                 	E-MAIL ADDRESS  :-  yspatil73@yahoo.co.in <br>
-                 	CONTACT NO.     :-  9423975295          </p> <br><br>
-                 <h4><a href="https://gcoej.ac.in/download/YSP_biodata0.pdf">Read more</a></h4>   
+                 	E-MAIL ADDRESS  :-  yspatil@gcoej.ac.in <br>
+                 	PHONE EXT.     :-  247        </p> <br><br>
+                 <h4><a href="https://gcoej.ac.in/download/YSP_biodata0.pdf" target="_blank">Read more</a></h4>   
               </div>   
             </div>  
             <div class="clearfix"></div>
@@ -211,13 +212,13 @@ $(function() {
         </div>       
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                            
-               <h3><a href="https://gcoej.ac.in/download/SDGadhire0.pdf">Shri.S.D.Gadhire</a></h3>          
+               <h3><a href="https://gcoej.ac.in/download/SDGadhire0.pdf" target="_blank">Shri.S.D.Gadhire</a></h3>          
                     
                  <p>NAME            :-  Shri. SACHIN DATTATRAYA GADHIRE <br>
                  	DESIGNATION     :-  Assistant Professor in Mathematics<br>
-                 	E-MAIL ADDRESS  :-  sdgadhire@yahoo.co.in <br>
-                 	CONTACT NO.     :-  9423781144            </p><br><br>
-                 <h4><a href="https://gcoej.ac.in/download/SDGadhire0.pdf">Read more</a></h4>  
+                 	E-MAIL ADDRESS  :-  sdgadhire@gcoej.ac.in <br>
+                 	PHONE EXT.     :-  246           </p><br><br>
+                 <h4><a href="https://gcoej.ac.in/download/SDGadhire0.pdf" target="_blank">Read more</a></h4>  
               </div>   
             </div>  
             <div class="clearfix"></div>
@@ -232,12 +233,12 @@ $(function() {
         </div>       
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                     
-               <h3><a href="https://gcoej.ac.in/download/VMKanke0.pdf">Shri.V.M.Kanke</a></h3>          
+               <h3><a href="https://gcoej.ac.in/download/VMKanke0.pdf" target="_blank">Shri.V.M.Kanke</a></h3>          
                   <p>NAME            :-  Shri. KANKE VIJAY MAROTRAO  <br>
                  	DESIGNATION     :-  Assistant Professor in Chemistry<br>
-                 	E-MAIL ADDRESS  :-  vijukanke@gmail.com <br>
-                 	CONTACT NO.     :-  9503600488</p><br><br>
-                   <h4><a href="https://gcoej.ac.in/download/VMKanke0.pdf">Read more</a></h4>  
+                 	E-MAIL ADDRESS  :-  vmkanke@gcoej.ac.in <br>
+                 	PHONE EXT.     :-  248</p><br><br>
+                   <h4><a href="https://gcoej.ac.in/download/VMKanke0.pdf" target="_blank">Read more</a></h4>  
               </div>   
             </div>  
             <div class="clearfix"></div>
@@ -253,13 +254,13 @@ $(function() {
         </div>       
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                            
-               <h3><a href="https://gcoej.ac.in/download/NMGosavi_biodata0.pdf">N.M.Gosavi</a></h3>          
+               <h3><a href="https://gcoej.ac.in/download/NMGosavi_biodata0.pdf" target="_blank">N.M.Gosavi</a></h3>          
                     
                  <p>NAME            :-  GOSAVI NARAYANI MADHUKAR <br>
                  	DESIGNATION     :-  Assistant Professor in Chemistry<br>
-                 	E-MAIL ADDRESS  :-  narayanigosavi@rediffmail.com <br>
-                 	CONTACT NO.     :-  9270989953</p><br><br>  
-                 	<h4><a href="https://gcoej.ac.in/download/NMGosavi_biodata0.pdf">Read more</a></h4>  
+                 	E-MAIL ADDRESS  :-  nmgosavi@gcoej.ac.in <br>
+                 	PHONE EXT.     :-  259</p><br><br>  
+                 	<h4><a href="https://gcoej.ac.in/download/NMGosavi_biodata0.pdf" target="_blank">Read more</a></h4>  
               </div>   
             </div>  
             <div class="clearfix"></div>

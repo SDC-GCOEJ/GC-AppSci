@@ -25,6 +25,7 @@ $mysqli = new mysqli("gcoej.ac.in", "gcoejjif_sdcw", "sdc@2016", "gcoejjif_data_
 <script src="js/jquery.chocolat.js"></script>
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8" />
 <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--light-box-files -->
 <script type="text/javascript" charset="utf-8">
 $(function() {
@@ -36,7 +37,7 @@ $(function() {
 <div class="header">
 		<div class="container">
 			<div class="col-sm-12 logo">
-      <img src="images/sci.png">
+      <img src="images/sci.png" width="100%">
 			 <!-- <h1><a href="index.php"><span class="highlight"></span>Department of Applied Science</a></h1>-->
 			</div>
 		    <div class="col-sm-9 logo_right">
@@ -52,7 +53,7 @@ $(function() {
  <div class="container">
  <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header nav_2">
-      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">Menu
+      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs"><i class="fa fa-bars" aria-hidden="true"></i>
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -147,7 +148,7 @@ $(function() {
 <div class="about_banner">
   <div class="container">
     <h2>LABORATORIES</h2>
-    <span class="breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a><span>Infrastrucure/Laboratories</span></span>
+    <span class="breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a><span>/Infrastrucure/Laboratories</span></span>
   </div>
 </div>
 <!--

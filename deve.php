@@ -44,26 +44,64 @@ $(function() {
     <!-- <h6>Our Team</h6>-->
     
               
-            
-            
+         <div class="row_1">             
+        <div class="col-lg-4 col-sm-4">                 
+          <div class="index-post-media">                     
+            <div class="media-materials clearfix">                        
+               <img alt="" class="img-responsive" src="images/hdg.jpg"/>                  
+            </div>                 
+            </div>           
+        </div>       
+        <div class="col-lg-8 col-sm-8">            
+            <div class="blog-entry-title">                                            
+               <h3>Prof.Harish Gadade</a></h3>          
+                  
+                 <br><h4>SDC Head</h4>
+                  <br><br>
+                 <h4><a href="https://sdc.gcoej.ac.in" target="_blank">Read more</a></h4>  
+              </div>   
+            </div>  
+            <div class="clearfix"></div>
+           </div>  
+   
+            <div class="row_1">             
+        <div class="col-lg-4 col-sm-4">                 
+          <div class="index-post-media">                     
+            <div class="media-materials clearfix">                        
+               <img alt="" class="img-responsive" src="images/1.jpg"/>                  
+            </div>                 
+            </div>           
+        </div>       
+        <div class="col-lg-8 col-sm-8">            
+            <div class="blog-entry-title">                                            
+               <h3>Rizwan R Syed</h3>          
+                  
+                 <br><h4>SDC Manager</h4>
+                  <br><br>
+                 <h4><a href="https://sdc.gcoej.ac.in" target="_blank">Read more</a></h4>  
+              </div>   
+            </div>  
+            <div class="clearfix"></div>
+           </div>  
+
          
           <div class="row_1"> 
 
         <div class="col-lg-4 col-sm-4">                 
           <div class="index-post-media">                     
             <div class="media-materials clearfix">                        
-              <img alt="" class="img-responsive" src="images/female.png"/>                    
+              <img alt="" class="img-responsive" src="images/2.jpg"/>                    
             </div>                 
             </div>           
         </div>       
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                            
                                     
-               <h3><a href="https://sdc.gcoej.ac.in">Damini Avinash Nehete</a></h3>          
+               <h3>Akshay Ghodake</h3>          
                     
-                 <br><p>SDC member</p>
+                 <br><h4>Technical Team Leader</h4>
                   <br><br>
-                  <h4><a href="https://sdc.gcoej.ac.in">Read more</a></h4>  
+                  <h4><a href="https://sdc.gcoej.ac.in" target="_blank">Read more</a></h4>  
               </div>   
             </div>  
             <div class="clearfix"></div>
@@ -75,17 +113,55 @@ $(function() {
         <div class="col-lg-4 col-sm-4">                 
           <div class="index-post-media">                     
             <div class="media-materials clearfix">                        
-               <img alt="" class="img-responsive" src="images/female.png"/>                  
+               <img alt="" class="img-responsive" src="images/3.jpg"/>                  
             </div>                 
             </div>           
         </div>       
         <div class="col-lg-8 col-sm-8">            
             <div class="blog-entry-title">                                            
-               <h3><a href="https://sdc.gcoej.ac.in">Shubhi Shukla</a></h3>          
+               <h3>Ojas Lunawat</h3>          
                   
-                 <br><p>SDC member</p>
+                 <br><h4>Hosting Manager</h4>
                   <br><br>
-                 <h4><a href="https://sdc.gcoej.ac.in">Read more</a></h4>  
+                 <h4><a href="https://sdc.gcoej.ac.in" target="_blank">Read more</a></h4>  
+              </div>   
+            </div>  
+            <div class="clearfix"></div>
+           </div>  
+            <div class="row_1">             
+        <div class="col-lg-4 col-sm-4">                 
+          <div class="index-post-media">                     
+            <div class="media-materials clearfix">                        
+               <img alt="" class="img-responsive" src="images/pic2.jpg"/>                  
+            </div>                 
+            </div>           
+        </div>       
+        <div class="col-lg-8 col-sm-8">            
+            <div class="blog-entry-title">                                            
+               <h3>Shubhi Shukla</h3>          
+                  
+                 <br><h4>Website Developer</h4>
+                  <br><br>
+                 <h4><a href="https://sdc.gcoej.ac.in" target="_blank">Read more</a></h4>  
+              </div>   
+            </div>  
+            <div class="clearfix"></div>
+           </div>  
+            <div class="row_1">             
+        <div class="col-lg-4 col-sm-4">                 
+          <div class="index-post-media">                     
+            <div class="media-materials clearfix">                        
+               <img alt="" class="img-responsive" src="images/pic1.jpg"/>                  
+            </div>                 
+            </div>           
+        </div>       
+        <div class="col-lg-8 col-sm-8">            
+            <div class="blog-entry-title">                                            
+               <h3>Damini Nehete</h3>          
+                  
+                 <br><p>Website Developer</p>
+                  <br><br>
+                 <h4><a href="https://sdc.gcoej.ac.in" target="_blank">Read more</a></h4>  
               </div>   
             </div>  
             <div class="clearfix"></div>

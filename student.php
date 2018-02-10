@@ -21,6 +21,8 @@
 <script type="text/javascript" src="js/easing.js"></script>
 <script src="js/jquery.chocolat.js"></script>
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--light-box-files -->
 <script type="text/javascript" charset="utf-8">
 $(function() {
@@ -33,7 +35,7 @@ $(function() {
 		<div class="container">
 			<div class="col-sm-12 logo">
 			<!--  <h1><a href="index.php"><span class="highlight"></span>Department of Applied Science</a></h1>-->
-      <img src="images/sci.png">
+      <img src="images/sci.png" width="100%">
 			</div>
 		    <div class="col-sm-9 logo_right">
 		       
@@ -48,7 +50,7 @@ $(function() {
  <div class="container">
  <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header nav_2">
-      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">Menu
+      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs"><i class="fa fa-bars" aria-hidden="true"></i>
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -139,7 +141,55 @@ $(function() {
 </nav>
 
 <body>
-  <img src="images/under.gif" width="100%" height="400px">
+<div class="about_banner">
+  <div class="container">
+    <h2>STUDENT</h2>
+    <span class="breadcrumbs"><a href="index.php"><i class="fa fa-home home_1"></i></a><span>/People/Student</span></span>
+  </div>
+</div>
+<center>
+ <table>
+ <article>  
+  <tr>
+  <td>Sr.No.</td>
+  <td>Department</td>
+  <td>Download</td>
+</tr>  
+<tr>
+  <td>1</td>
+  <td>F.Y.COMPUTER</td>
+  <td><a href="#">Download</a></td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>F.Y.CIVIL</td>
+  <td><a href="#">Download</a></td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>F.Y.ELECTRICAL</td>
+  <td><a href="#">Download</a></td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>F.Y.MECHANICAL</td>
+  <td><a href="#">Download</a></td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>F.Y.INSTRUMENTATION</td>
+  <td><a href="#">Download</a></td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>F.Y.ELECTRONICS & TELECOMMUNICATION</td>
+  <td><a href="#">Download</a></td>
+</tr>
+
+
+</article>
+</table>
+</center>
 <div class="footer_bottom">
   <div class="container">
     <div class="copy">

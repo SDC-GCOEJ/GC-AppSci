@@ -265,6 +265,7 @@ h3.tittle span {
 
 <script src="js/jquery.chocolat.js"></script>
 <link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!--light-box-files -->
 <script type="text/javascript" charset="utf-8">
 $(function() {
@@ -279,7 +280,7 @@ $(function() {
 			<div class="col-sm-12 logo">
 			<!-- <h1><a href="index.php"><span class="highlight">Department of Applied Science</span></a></h1>
         <h5 style="color: #fff">Government College of Engineering, Jalgaon</h5>-->
-       <img src="images/sci_white.png">
+       <img src="images/sci_white.png" width="100%">
 			</div>
 		    <div class="col-sm-9 logo_right">
 		       
@@ -295,7 +296,7 @@ $(function() {
  <div class="container">
  <!-- Brand and toggle get grouped for better mobile display -->
    <div class="navbar-header nav_2">
-      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">Menu
+      <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs"><i class="fa fa-bars" aria-hidden="true"></i>
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -418,7 +419,7 @@ $(function() {
         <img src="images/sl9.jfif" alt="INNOVATIONS" style="width:100%;">
         <div class="carousel-caption">
           <h3>MISSION</h3>
-          <p>TO PROMOTE OVERALL DEVELOPMENT OF STUDENTS BY CREATING EXCELLENT LEARNING ENVIRONMENT.</p>
+          <p>TO PROMOTE OVERALL DEVELOPMENT OF STUDENTS.</p>
         </div>
       </div>
     
