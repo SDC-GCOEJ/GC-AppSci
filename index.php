@@ -519,7 +519,7 @@ $(function() {
 		<div class="copy">
 <p>Developed & Managed by <a href="https://sdc.gcoej.ac.in/index.php" target="_blank">Software Developement Cell</a>,Government College of Engineering, Jalgaon </p>
             <p><a href="deve.php" target="_blank">-Developers-</a></p>
-            <p>Write to us- <a href="mailto:sdc.comp.gcoej@gmail.com">sdc.comp.gcoej@gmail.com</a></p>	    </div>
+            <p>Write to us- <a href="mailto:admin@gcoej.ac.in">admin@gcoej.ac.in</a></p>	    </div>
 	</div>
 	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;">Top </span></a>
       <script type="text/javascript" src="js/move-top.js"></script>
